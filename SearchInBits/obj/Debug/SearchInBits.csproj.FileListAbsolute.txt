@@ -1,0 +1,6 @@
+D:\TELERIK\C#\MyOwnScrapTempProject\ExamTestCSharpOne\SearchInBits\bin\Debug\SearchInBits.exe.config
+D:\TELERIK\C#\MyOwnScrapTempProject\ExamTestCSharpOne\SearchInBits\bin\Debug\SearchInBits.exe
+D:\TELERIK\C#\MyOwnScrapTempProject\ExamTestCSharpOne\SearchInBits\bin\Debug\SearchInBits.pdb
+D:\TELERIK\C#\MyOwnScrapTempProject\ExamTestCSharpOne\SearchInBits\obj\Debug\SearchInBits.csprojResolveAssemblyReference.cache
+D:\TELERIK\C#\MyOwnScrapTempProject\ExamTestCSharpOne\SearchInBits\obj\Debug\SearchInBits.exe
+D:\TELERIK\C#\MyOwnScrapTempProject\ExamTestCSharpOne\SearchInBits\obj\Debug\SearchInBits.pdb

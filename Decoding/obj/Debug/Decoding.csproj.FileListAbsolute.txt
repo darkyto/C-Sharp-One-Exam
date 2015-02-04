@@ -1,0 +1,6 @@
+D:\TELERIK\C#\MyOwnScrapTempProject\ExamTestCSharpOne\Decoding\bin\Debug\Decoding.exe.config
+D:\TELERIK\C#\MyOwnScrapTempProject\ExamTestCSharpOne\Decoding\bin\Debug\Decoding.exe
+D:\TELERIK\C#\MyOwnScrapTempProject\ExamTestCSharpOne\Decoding\bin\Debug\Decoding.pdb
+D:\TELERIK\C#\MyOwnScrapTempProject\ExamTestCSharpOne\Decoding\obj\Debug\Decoding.csprojResolveAssemblyReference.cache
+D:\TELERIK\C#\MyOwnScrapTempProject\ExamTestCSharpOne\Decoding\obj\Debug\Decoding.exe
+D:\TELERIK\C#\MyOwnScrapTempProject\ExamTestCSharpOne\Decoding\obj\Debug\Decoding.pdb

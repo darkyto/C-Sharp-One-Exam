@@ -1,0 +1,6 @@
+D:\TELERIK\C#\MyOwnScrapTempProject\ExamTestCSharpOne\Persian\bin\Debug\Persian.exe.config
+D:\TELERIK\C#\MyOwnScrapTempProject\ExamTestCSharpOne\Persian\bin\Debug\Persian.exe
+D:\TELERIK\C#\MyOwnScrapTempProject\ExamTestCSharpOne\Persian\bin\Debug\Persian.pdb
+D:\TELERIK\C#\MyOwnScrapTempProject\ExamTestCSharpOne\Persian\obj\Debug\Persian.exe
+D:\TELERIK\C#\MyOwnScrapTempProject\ExamTestCSharpOne\Persian\obj\Debug\Persian.pdb
+D:\TELERIK\C#\MyOwnScrapTempProject\ExamTestCSharpOne\Persian\obj\Debug\Persian.csprojResolveAssemblyReference.cache

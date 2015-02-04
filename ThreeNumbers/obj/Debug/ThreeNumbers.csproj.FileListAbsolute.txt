@@ -1,0 +1,6 @@
+D:\TELERIK\C#\MyOwnScrapTempProject\ExamTestCSharpOne\ThreeNumbers\bin\Debug\ThreeNumbers.exe.config
+D:\TELERIK\C#\MyOwnScrapTempProject\ExamTestCSharpOne\ThreeNumbers\bin\Debug\ThreeNumbers.exe
+D:\TELERIK\C#\MyOwnScrapTempProject\ExamTestCSharpOne\ThreeNumbers\bin\Debug\ThreeNumbers.pdb
+D:\TELERIK\C#\MyOwnScrapTempProject\ExamTestCSharpOne\ThreeNumbers\obj\Debug\ThreeNumbers.csprojResolveAssemblyReference.cache
+D:\TELERIK\C#\MyOwnScrapTempProject\ExamTestCSharpOne\ThreeNumbers\obj\Debug\ThreeNumbers.exe
+D:\TELERIK\C#\MyOwnScrapTempProject\ExamTestCSharpOne\ThreeNumbers\obj\Debug\ThreeNumbers.pdb

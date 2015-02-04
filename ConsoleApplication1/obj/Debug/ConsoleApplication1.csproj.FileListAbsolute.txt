@@ -1,0 +1,6 @@
+D:\TELERIK\C#\MyOwnScrapTempProject\ExamTestCSharpOne\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\TELERIK\C#\MyOwnScrapTempProject\ExamTestCSharpOne\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\TELERIK\C#\MyOwnScrapTempProject\ExamTestCSharpOne\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\TELERIK\C#\MyOwnScrapTempProject\ExamTestCSharpOne\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\TELERIK\C#\MyOwnScrapTempProject\ExamTestCSharpOne\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\TELERIK\C#\MyOwnScrapTempProject\ExamTestCSharpOne\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
